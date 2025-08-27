@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hongx\\OneDrive\\Desktop\\Assignment_GP\\",
+  "WorkspaceRootPath": "C:\\Users\\hongx\\OneDrive\\Desktop\\Graphic_Programming\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3329A980-CC3A-4997-92F5-998850384A69}|Assignment_GP\\Assignment_GP.vcxproj|C:\\Users\\hongx\\OneDrive\\Desktop\\Assignment_GP\\Assignment_GP\\Demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3329A980-CC3A-4997-92F5-998850384A69}|Assignment_GP\\Assignment_GP.vcxproj|C:\\Users\\hongx\\OneDrive\\Desktop\\Graphic_Programming\\Assignment_GP\\Demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3329A980-CC3A-4997-92F5-998850384A69}|Assignment_GP\\Assignment_GP.vcxproj|solutionrelative:Assignment_GP\\Demo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Demo.cpp",
-              "DocumentMoniker": "C:\\Users\\hongx\\OneDrive\\Desktop\\Assignment_GP\\Assignment_GP\\Demo.cpp",
+              "DocumentMoniker": "C:\\Users\\hongx\\OneDrive\\Desktop\\Graphic_Programming\\Assignment_GP\\Demo.cpp",
               "RelativeDocumentMoniker": "Assignment_GP\\Demo.cpp",
-              "ToolTip": "C:\\Users\\hongx\\OneDrive\\Desktop\\Assignment_GP\\Assignment_GP\\Demo.cpp",
+              "ToolTip": "C:\\Users\\hongx\\OneDrive\\Desktop\\Graphic_Programming\\Assignment_GP\\Demo.cpp",
               "RelativeToolTip": "Assignment_GP\\Demo.cpp",
-              "ViewState": "AgIAAGoFAAAAAAAAAAAAAHAFAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAOwEAAAAAAAAAAAAAHAFAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-04T03:17:41.721Z",
               "EditorCaption": ""
