@@ -9,6 +9,8 @@
 
 #define WINDOW_TITLE "OpenGL Window"
 
+float r = 0.5;
+
 float /*tx = 0, tz = 0,*/ tspeed = 1;		//traslate z with tspeed for modelview
 boolean isOrtho = true;			//is ortho view?
 float ONear = -10, OFar = 10;	//Ortho near and far
@@ -74,8 +76,21 @@ LRESULT WINAPI WindowProcedure(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam
 			rotationY -= rotationSpeed;
 		else if (wParam == VK_RIGHT)
 			rotationY += rotationSpeed;
-		else if (wParam == VK_SPACE)
-			rotationY = 0, rotationX = 0, walkCycle = 0.0, walkSpeed = 0.0, rotate = false, headRotation = 0.0f, leftShoulderAngle = 0.0f, leftElbowAngle = 0.0f, leftWristAngle = 0.0f, rightShoulderAngle = 0.0f, rightElbowAngle = 0.0f, rightWristAngle = 0.0f;
+		else if (wParam == VK_SPACE) {
+			rotationY = 0;
+			rotationX = 0;
+			walkCycle = 0.0;
+			walkSpeed = 0.0;
+			rotate = false;
+			headRotation = 0.0f;
+			leftShoulderAngle = 0.0f;
+			leftElbowAngle = 0.0f;
+			leftWristAngle = 0.0f;
+			rightShoulderAngle = 0.0f;
+			rightElbowAngle = 0.0f;
+			rightWristAngle = 0.0f;
+
+		}
 		else if (wParam == 'M')
 			walkSpeed = acceleration, shoulderMove = true;
 		else if (wParam == 'N')
@@ -1345,7 +1360,6 @@ void display()
 	glEnable(GL_DEPTH_TEST);
 
 
-
 	//projection(); //projetion
 
 	glMatrixMode(GL_PROJECTION);
@@ -1366,11 +1380,18 @@ void display()
 	);
 
 
-	glScalef(0.75, 0.75, 0.75);
+	r += 0.05;		// rotation speed
+	
+	glPushMatrix();
+	glRotatef(r, 0.0, 1.0, 0.0);	// to view the model in 360
+
+	glScalef(0.5, 0.5, 0.5);
 	updateMovement();
 	updateHeadRotation();
 	fullrobot();
 
+
+	glPopMatrix();
 }
 
 

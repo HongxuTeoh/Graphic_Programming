@@ -1,24 +1,25 @@
 ﻿  Demo.cpp
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(17,33): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(35,12): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(331,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(332,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(343,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(344,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(19,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(37,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(346,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(347,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(358,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
 C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(359,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(360,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(369,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(370,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(706,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(707,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(709,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(710,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(712,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(713,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(722,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(723,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1253,15): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1260,15): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1267,15): warning C4305: 'argument': truncation from 'double' to 'float'
-C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1274,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(374,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(375,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(384,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(385,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(721,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(722,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(724,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(725,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(727,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(728,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(737,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(738,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1268,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1275,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1282,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1289,15): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\Assignment_GP\Demo.cpp(1383,7): warning C4305: '+=': truncation from 'double' to 'float'
   Assignment_GP.vcxproj -> C:\Users\hongx\OneDrive\Desktop\Graphic_Programming\x64\Debug\Assignment_GP.exe
