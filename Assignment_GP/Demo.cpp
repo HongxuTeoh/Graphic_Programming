@@ -1385,7 +1385,7 @@ void display()
 	glPushMatrix();
 	glRotatef(r, 0.0, 1.0, 0.0);	// to view the model in 360
 
-	glScalef(0.5, 0.5, 0.5);
+	//glScalef(0.5, 0.5, 0.5);
 	updateMovement();
 	updateHeadRotation();
 	fullrobot();
